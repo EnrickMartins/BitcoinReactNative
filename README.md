@@ -65,3 +65,5 @@ Bitcoin Calculator App written in [React Native](https://github.com/facebook/rea
 ## License
 
 Released under the [MIT License](http://opensource.org/licenses/MIT).
+
+
